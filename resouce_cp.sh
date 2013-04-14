@@ -9,3 +9,5 @@ fi
 for file in `find $1 -name "*"`; do
 	cp -f "$file" "${DIR}"
 done
+
+#test
